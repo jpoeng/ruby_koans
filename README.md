@@ -1,6 +1,6 @@
 # ruby_koans
 
-Intended for daily Ruby practice. Source of exercises can be found !(here)[http://rubykoans.com/].
+Intended for daily Ruby practice. Source of exercises can be found [here](http://rubykoans.com/).
 
 Date Started: 10/29/15
 
